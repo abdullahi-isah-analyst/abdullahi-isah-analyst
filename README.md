@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abdullahi Isah 👋
 
-<!--
-**abdullahi-isah-analyst/abdullahi-isah-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | SQL • Python • Power BI**
 
-Here are some ideas to get you started:
+I turn education data into insights that support programs for out-of-school children in Nigeria. I'm based in Kano and open to Data Analyst roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages & Databases:** SQL, Python, SQLite
+- **Visualization:** Power BI
+- **Machine Learning:** scikit-learn (Random Forest)
+- **Tools:** Jupyter, Kaggle, Git
+
+## 📊 Featured Projects
+- **Students Dropout Predictor**: a machine learning model that predicts which students are at risk of dropping out. *(link coming soon)*
+- **Out-of-School Children Survey Analysis**: analysis of survey data using Python, SQLite and SQL. *(link coming soon)*
+
+## 📫 Connect with me
+- [Kaggle](https://www.kaggle.com/abbansadiq)
+- [LinkedIn](https://www.linkedin.com/in/abdullahi-isah-analyst)
