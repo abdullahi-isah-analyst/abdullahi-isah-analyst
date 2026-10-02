@@ -12,7 +12,7 @@ I turn education data into insights that support programs for out-of-school chil
 
 ## 📊 Featured Projects
 - [**Students Dropout Predictor**](https://github.com/abdullahi-isah-analyst/students-dropout-predictor): a machine learning model that predicts which students are at risk of dropping out (84% accuracy, 86% dropout precision).
-- **Out-of-School Children Survey Analysis**: analysis of survey data using Python, SQLite and SQL. *(link coming soon)*
+- [**Out-of-School Children Survey Analysis**](https://github.com/abdullahi-isah-analyst/kano-oosc-survey-analysis): analysis of the 2026 Kano State out-of-school children survey using Python, SQLite, SQL and Power BI (341,000 children across 15 LGAs).
 
 ## 📫 Connect with me
 - [Kaggle](https://www.kaggle.com/abbansadiq)
