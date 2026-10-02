@@ -10,9 +10,7 @@ I turn education data into insights that support programs for out-of-school chil
 - **Machine Learning:** scikit-learn (Random Forest)
 - **Tools:** Jupyter, Kaggle, Git
 
-## 📊 Featured Projects
-- **Students Dropout Predictor**: a machine learning model that predicts which students are at risk of dropping out. *(link coming soon)*
-- **Out-of-School Children Survey Analysis**: analysis of survey data using Python, SQLite and SQL. *(link coming soon)*
+- [**Students Dropout Predictor**](https://github.com/abdullahi-isah-analyst/students-dropout-predictor): a machine learning model that predicts which students are at risk of dropping out (84% accuracy, 86% dropout precision).
 
 ## 📫 Connect with me
 - [Kaggle](https://www.kaggle.com/abbansadiq)
